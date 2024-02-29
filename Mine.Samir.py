@@ -88,7 +88,7 @@ logo =                            """
 \033[1;37m Owner   :            Mine Samir
 \033[1;37m Facebook:            Mine Samir
 \033[1;37m Github  :            Samir-SAMIR
-\033[1;37m Version :            19.8
+\033[1;37m Version :            20
 \033[1;37m------------------------------------------------ """
 def clear():
     os.system("clear")
